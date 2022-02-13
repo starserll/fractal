@@ -7,4 +7,6 @@ def main():
     print (" ;))) ")
     print (" ----- ")
 
+    print("Hello from PEOPLE back!")
+
 main()
